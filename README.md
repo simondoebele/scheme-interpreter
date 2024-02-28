@@ -89,6 +89,18 @@ To start an interactive Scheme interpreter session, type:
    python3 scheme.py
    ```
 
+You could then perform some simple calculations, such as
+   ```sh
+   scm> (* 3 4 (- 5 2) 1)
+   36
+   ```
+define new functions
+   ```sh
+   scm> (define (square x) (* x x))
+   square
+   ```
+and much more.
+
 Or use the Scheme interpreter to evaluate the expressions in an input file like so:
    ```sh
    python3 scheme.py tests.scm
