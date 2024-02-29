@@ -37,6 +37,8 @@
   </p>
 </div>
 
+![REPL](./images/REPL.png)
+(For a quick introduction to interpreters, see [here](http://alex.stennet.com/interpreters.html))
 
 
 <!-- TABLE OF CONTENTS -->
